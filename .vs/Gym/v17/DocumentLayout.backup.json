@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|d:\\sem -5 .net project\\riyaan gym project\\gym\\events.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:events.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\feedback.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:feedback.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\trainers.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:trainers.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\register.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:register.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\aboutus.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:aboutus.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\membership.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:membership.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\trainers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:trainers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\confirmmembership.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:confirmmembership.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\events.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:events.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\admindashboard.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:admindashboard.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\membership.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:membership.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\contactus.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:contactus.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\home.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Gym.vbproj|solutionrelative:home.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "register.css",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\register.css",
+              "RelativeDocumentMoniker": "register.css",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\register.css",
+              "RelativeToolTip": "register.css",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAH8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-21T07:59:53.886Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Membership.aspx.vb",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Membership.aspx.vb",
+              "RelativeDocumentMoniker": "Membership.aspx.vb",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Membership.aspx.vb",
+              "RelativeToolTip": "Membership.aspx.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-03T07:32:01.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Events.aspx.vb",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Events.aspx.vb",
+              "RelativeDocumentMoniker": "Events.aspx.vb",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Events.aspx.vb",
+              "RelativeToolTip": "Events.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-03T06:41:37.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutUs.aspx.vb",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\AboutUs.aspx.vb",
+              "RelativeDocumentMoniker": "AboutUs.aspx.vb",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\AboutUs.aspx.vb",
+              "RelativeToolTip": "AboutUs.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-03T06:26:33.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.aspx.vb",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\login.aspx.vb",
+              "RelativeDocumentMoniker": "login.aspx.vb",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\login.aspx.vb",
+              "RelativeToolTip": "login.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-03T06:08:36.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.aspx.vb",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Register.aspx.vb",
+              "RelativeDocumentMoniker": "Register.aspx.vb",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Register.aspx.vb",
+              "RelativeToolTip": "Register.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-03T06:04:53.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Register.aspx",
+              "RelativeDocumentMoniker": "Register.aspx",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Register.aspx",
+              "RelativeToolTip": "Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-03T05:58:46.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Events.aspx",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Events.aspx",
+              "RelativeDocumentMoniker": "Events.aspx",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Events.aspx",
+              "RelativeToolTip": "Events.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-23T14:43:45.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trainers.aspx.vb",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Trainers.aspx.vb",
+              "RelativeDocumentMoniker": "Trainers.aspx.vb",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Trainers.aspx.vb",
+              "RelativeToolTip": "Trainers.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-23T07:01:53.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Feedback.aspx.vb",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Feedback.aspx.vb",
+              "RelativeDocumentMoniker": "Feedback.aspx.vb",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Feedback.aspx.vb",
+              "RelativeToolTip": "Feedback.aspx.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-21T06:44:22.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Feedback.aspx",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Feedback.aspx",
+              "RelativeDocumentMoniker": "Feedback.aspx",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Feedback.aspx",
+              "RelativeToolTip": "Feedback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-21T06:43:27.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-21T06:31:03.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactUs.aspx",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\ContactUs.aspx",
+              "RelativeDocumentMoniker": "ContactUs.aspx",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\ContactUs.aspx",
+              "RelativeToolTip": "ContactUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-21T06:11:39.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Membership.aspx",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Membership.aspx",
+              "RelativeDocumentMoniker": "Membership.aspx",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Membership.aspx",
+              "RelativeToolTip": "Membership.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-21T06:05:18.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Trainers.aspx",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Trainers.aspx",
+              "RelativeDocumentMoniker": "Trainers.aspx",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Trainers.aspx",
+              "RelativeToolTip": "Trainers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-10T06:09:55.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminDashboard.aspx.vb",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\AdminDashboard.aspx.vb",
+              "RelativeDocumentMoniker": "AdminDashboard.aspx.vb",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\AdminDashboard.aspx.vb",
+              "RelativeToolTip": "AdminDashboard.aspx.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwNsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-10T05:52:09.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "AboutUs.aspx",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\AboutUs.aspx",
+              "RelativeToolTip": "AboutUs.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-11T06:41:43.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "AdminDashboard.aspx",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\AdminDashboard.aspx",
+              "RelativeToolTip": "AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-10T05:33:44.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.aspx",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\login.aspx",
+              "RelativeDocumentMoniker": "login.aspx",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\login.aspx",
+              "RelativeToolTip": "login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-05T12:20:21.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContactUs.aspx.vb",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\ContactUs.aspx.vb",
+              "RelativeDocumentMoniker": "ContactUs.aspx.vb",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\ContactUs.aspx.vb",
+              "RelativeToolTip": "ContactUs.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-14T05:20:49.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfirmMembership.aspx.vb",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\ConfirmMembership.aspx.vb",
+              "RelativeDocumentMoniker": "ConfirmMembership.aspx.vb",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\ConfirmMembership.aspx.vb",
+              "RelativeToolTip": "ConfirmMembership.aspx.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-09T06:53:20.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Home.aspx.vb",
+              "DocumentMoniker": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Home.aspx.vb",
+              "RelativeDocumentMoniker": "Home.aspx.vb",
+              "ToolTip": "D:\\sem -5 .net project\\Riyaan Gym project\\Gym\\Home.aspx.vb",
+              "RelativeToolTip": "Home.aspx.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-08T08:11:21.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
